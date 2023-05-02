@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+ul{
+	list-style-type: none;
+}
+nav ul{
+	display:flex;
+	gap:20px;
+	text-align:center;
+	
+}
