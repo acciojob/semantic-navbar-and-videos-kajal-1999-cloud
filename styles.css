@@ -6,6 +6,15 @@ ul{
 nav ul{
 	display:flex;
 	gap:20px;
-	text-align:center;
+	justify-content:space-between;
+	margin:10px;
+	
+}
+
+ul li a{
+	text align: center;
+}
+h2{
+	text-align: center;
 	
 }
